@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "RDIoI6CzVfWUP3gDSiusKAe2gel0UG/M99qaRkByy1A=",
+  "Source": "CatalogoLivros.API",
+  "BasePath": "_content/CatalogoLivros.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

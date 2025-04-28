@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CatalogoLivros.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CatalogoLivros.Domain": "1.0.0",
+          "CatalogoLivros.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CatalogoLivros.Infrastructure.dll": {}
+        }
+      },
+      "CatalogoLivros.Domain/1.0.0": {
+        "dependencies": {
+          "CatalogoLivros.Shared": "1.0.0"
+        },
+        "runtime": {
+          "CatalogoLivros.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CatalogoLivros.Shared/1.0.0": {
+        "runtime": {
+          "CatalogoLivros.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatalogoLivros.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogoLivros.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogoLivros.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
